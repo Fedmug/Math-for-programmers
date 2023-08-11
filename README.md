@@ -1,3 +1,1 @@
-# hello-world
 
-In recent years crowdsourcing has become a standard tool for labeling massive datasets. It offers an appealing alternative to expensive expert labelers and distributes the task across a large crowd of low-cost non-expert workers. The power of crowdsourcing rests on the wisdom of the crowd — it has been observed in many contexts that judiciously aggregated independent opinions of unskilled individuals can outperform judgments of domain experts. Thus, methods for aggregating and drawing meaningful inferences from the noisy labels obtained from crowd workers are the cornerstone of crowdsourcing. In this article, we will discuss the foundations of aggregation techniques.
